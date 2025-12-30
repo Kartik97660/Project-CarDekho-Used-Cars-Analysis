@@ -175,5 +175,7 @@ I’m an MBA (Business Analytics) candidate from SIBM Nagpur focused on:
 3) Analytics projects that mirror industry problems
 
 If you’re a recruiter, analyst, or reviewer, feel free to reach out.
+
 Email: kartikpathak2799@gmail.com
+
 Linkedin: https://www.linkedin.com/in/kartik9970/
