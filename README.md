@@ -3,9 +3,8 @@
 📌 Project Overview
 
 This project is an end-to-end data analytics case study built using a real-world used car dataset inspired by CarDekho listings.
-The objective is simple and practical:
 
-Understand pricing, performance, usage patterns, and market behavior in the used car ecosystem.
+The objective is simple and practical: Understand pricing, performance, usage patterns, and market behavior in the used car ecosystem.
 
 # 🛠 Tools & Technologies Used
 
