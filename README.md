@@ -7,8 +7,15 @@ The objective is simple and practical:
 
 Understand pricing, performance, usage patterns, and market behavior in the used car ecosystem.
 
-This is not a dashboard-for-the-sake-of-it project.
-It focuses on business questions, insight extraction, and decision-oriented visuals.
+# 🛠 Tools & Technologies Used
+
+Power BI – Data modeling, DAX, dashboarding 
+
+SQL – Table creation & data understanding
+
+Excel / CSV – Raw dataset handling
+
+DAX Measures – KPIs, averages, comparisons
 
 # Key Business Questions Answered
 
@@ -71,18 +78,6 @@ Driving mode comparison (Manual vs Automatic)
 This section exposes real-world trade-offs, not marketing claims.
 
 <img width="1127" height="630" alt="drive insights dashboard" src="https://github.com/user-attachments/assets/cb2e9a68-0ccc-4b59-8667-715c3f4bf899" />
-
-# 🛠 Tools & Technologies Used
-
-Power BI – Data modeling, DAX, dashboarding
-
-SQL – Table creation & data understanding
-
-Excel / CSV – Raw dataset handling
-
-DAX Measures – KPIs, averages, comparisons
-
-No fake tools. No buzzword stuffing.
 
 # 📂 Dataset
 
